@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013543409398",
+    "project_id": "firstfirebaseapp-e0f1d",
+    "storage_bucket": "firstfirebaseapp-e0f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013543409398:android:8378fa31d74bfbddaf3ed7",
+        "android_client_info": {
+          "package_name": "dev.ogabek.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013543409398-2j6sg89ci2m1ebj4sffs081fp38gpccr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvXvKLgyukibXL07KU6nwj16esQMuEH5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013543409398-2j6sg89ci2m1ebj4sffs081fp38gpccr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
