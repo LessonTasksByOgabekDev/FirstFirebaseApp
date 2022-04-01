@@ -4,14 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/app_main_gradient.xml" value="0.3087179487179487" />
+        <entry key="app/src/main/res/drawable/ic_upload.xml" value="0.3087179487179487" />
         <entry key="app/src/main/res/drawable/loading_frame.xml" value="0.3087179487179487" />
         <entry key="app/src/main/res/drawable/shape_circle_orange_light.xml" value="0.3087179487179487" />
         <entry key="app/src/main/res/drawable/view_rounded_corner.xml" value="0.3087179487179487" />
+        <entry key="app/src/main/res/layout/activity_create.xml" value="0.29739583333333336" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.29739583333333336" />
         <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.2833333333333333" />
         <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.29739583333333336" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.2833333333333333" />
         <entry key="app/src/main/res/layout/custom_progress_dialog.xml" value="0.29739583333333336" />
+        <entry key="app/src/main/res/layout/item_post_list.xml" value="0.29739583333333336" />
       </map>
     </option>
   </component>
