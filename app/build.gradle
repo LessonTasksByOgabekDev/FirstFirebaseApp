@@ -50,4 +50,10 @@ dependencies {
     implementation 'com.google.firebase:firebase-database'
     implementation 'com.google.firebase:firebase-storage'
 
+    // Select Photo From Gallery
+    implementation 'io.github.sangcomz:fishbun:1.0.0-beta01'
+
+    // Glide for loading images
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+
 }
